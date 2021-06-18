@@ -1,0 +1,23 @@
+#identité, #identité_lg{
+    background-color:#92dce5 ;
+}
+#livraison, #livraison_lg{
+    background-color: #427aa1 ;
+}
+#règlement, #règlement_lg{
+    background-color: #05668d ;
+}
+input,textarea{
+    background-color: #f5d2cc;
+    border-radius: 5px;
+    border-color:#a5be00;
+}
+button{
+    background-color:#a5be00 ;
+    border-color: #d74b33;
+    border-radius:5px;
+}
+
+#adresse{
+ height:60px;
+}
